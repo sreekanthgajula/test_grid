@@ -1,0 +1,47 @@
+.pagination {
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .page-item {
+    margin: 0 5px;
+  }
+  
+  .page-link {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .active .page-link {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+  }
+  
+  .prev-item, .next-item {
+    cursor: pointer;
+  }
+  
+  .disabled .page-link {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  .modal-content {
+    max-width: 500px;
+    word-break: break-word;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  
+  .modal-content img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 50%;
+  }
+  

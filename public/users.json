@@ -1,0 +1,153 @@
+{
+  "companyInfo": {
+    "companyName": "Bailey, Larson and Richards",
+    "companyMotto": "best-of-breed incubate e-markets",
+    "companyEst": "2024-04-05T12:39:31.009Z"
+  },
+  "employees": [
+    {
+      "id": "aa1d6254-d215-42dc-b345-b2f87e27bb80",
+      "avatar": "/profile-user.png",
+      "firstName": "Harry",
+      "lastName": "Donnelly",
+      "jobTitle": "Product Branding Officer",
+      "contactNo": "0432 763 085",
+      "address": "Schmitt Mews Port Danielton, Queensland",
+      "age": 47,
+      "bio": "Aut aliquid aliquid voluptate minima. Ullam debitis magnam repellendus ducimus tempore. In sequi debitis. Omnis dolor exercitationem. In assumenda ut ipsam officiis.",
+      "dateJoined": "2017-04-13T05:08:21.995Z"
+    },
+    {
+      "id": "b06e7e04-1347-4458-b388-5e5b088fd2d4",
+      "avatar": "/profile-user.png",
+      "firstName": "Kai",
+      "lastName": "Kutch",
+      "jobTitle": "Corporate Optimization Developer",
+      "contactNo": "0408 422 540",
+      "address": "Kovacek Mews Boscomouth, Queensland",
+      "age": 66,
+      "bio": "Quis dolore et facilis deleniti. Eos esse iusto eaque et laborum hic. Porro voluptatem inventore totam. Fuga ex repellat fuga beatae sed rerum.",
+      "dateJoined": "2019-11-17T08:47:58.160Z"
+    },
+    {
+      "id": "038f501c-23f5-4c42-a42c-2ac481e3c9c6",
+      "avatar": "/profile-user.png",
+      "firstName": "Ethan",
+      "lastName": "Hughes",
+      "jobTitle": "Central Mobility Director",
+      "contactNo": "0451 089 193",
+      "address": "Koss Parkway New Bella, South Australia",
+      "age": 50,
+      "bio": "Voluptas eius provident sapiente consequatur porro. Et iure sit repudiandae autem. Provident numquam voluptate quaerat nemo. Aut officia alias est mollitia ut qui. Voluptas iusto dolorem perferendis molestiae quis illo sapiente.",
+      "dateJoined": "2024-09-04T21:00:32.191Z"
+    },
+    {
+      "id": "ac605530-301e-4d34-9b4d-6d75fb84e96b",
+      "avatar": "/profile-user.png",
+      "firstName": "Patrick",
+      "lastName": "Nader",
+      "jobTitle": "Senior Division Producer",
+      "contactNo": "0402 375 108",
+      "address": "Nader Square Port Claireberg, South Australia",
+      "age": 64,
+      "bio": "Dignissimos dolores enim officiis fugit exercitationem. Repellendus asperiores asperiores. Placeat qui recusandae repellendus amet tempora eos iure ut.",
+      "dateJoined": "2018-03-18T11:19:17.573Z"
+    },
+    {
+      "id": "c27d1093-0568-4818-aad4-ca416d9e6c25",
+      "avatar": "/profile-user.png",
+      "firstName": "Christian",
+      "lastName": "Heaney",
+      "jobTitle": "Dynamic Functionality Officer",
+      "contactNo": "0488 024 500",
+      "address": "Koelpin Plaza Port Savannahview, Victoria",
+      "age": 62,
+      "bio": "Ut error dolor asperiores et soluta commodi molestiae magnam a. Sit fuga quae quam officia. Eos laborum dolores. Aspernatur labore officia ea non voluptatem ea corrupti numquam. Consectetur omnis eum. Consequatur tenetur qui unde similique saepe et iste.",
+      "dateJoined": "2016-01-22T03:56:53.811Z"
+    },
+    {
+      "id": "0b108e37-1e5e-40df-b48b-f62e16a9bab8",
+      "avatar": "/profile-user.png",
+      "firstName": "Xavier",
+      "lastName": "Daniel",
+      "jobTitle": "Chief Integration Planner",
+      "contactNo": "0433 338 135",
+      "address": "Declan Road North Archie, Victoria",
+      "age": 57,
+      "bio": "Quis fugit perferendis ducimus consequuntur quia eum et architecto modi. Dolores iusto voluptas voluptates ea ut ea sit. Aut iusto qui molestias error fuga dolorem asperiores itaque soluta. Nihil vel ut.",
+      "dateJoined": "2024-03-07T15:21:45.481Z"
+    },
+    {
+      "id": "b09a3514-af9b-4c12-8a33-516a20042e80",
+      "avatar": "/profile-user.png",
+      "firstName": "Blake",
+      "lastName": "King",
+      "jobTitle": "District Interactions Agent",
+      "contactNo": "0470 921 203",
+      "address": "Davis Mews Dylanmouth, New South Wales",
+      "age": 41,
+      "bio": "Impedit voluptate quae aut deleniti. Voluptates autem ut tempore et sint qui sit molestiae. Voluptatem cupiditate quibusdam sit est dolores distinctio nulla. Necessitatibus consectetur dolorum fuga laborum. Eveniet minus sint ullam voluptatum quam.",
+      "dateJoined": "2023-07-12T21:22:32.666Z"
+    },
+    {
+      "id": "b2924b9a-5249-4fe5-8a27-7f6fe2144344",
+      "avatar": "/profile-user.png",
+      "firstName": "Claire",
+      "lastName": "Rees",
+      "jobTitle": "Lead Optimization Associate",
+      "contactNo": "0446 577 605",
+      "address": "Berge Trail Lake Olivia, Queensland",
+      "age": 48,
+      "bio": "Dolore exercitationem fugiat est et deserunt consequatur cupiditate et nihil. Porro ab sit non laborum et atque. Iure officia voluptas quaerat numquam perferendis molestiae id mollitia.",
+      "dateJoined": "2022-07-10T00:23:18.279Z"
+    },
+    {
+      "id": "904720d7-cea1-4601-b2a6-bee0b6b3bfa7",
+      "avatar": "/profile-user.png",
+      "firstName": "Willow",
+      "lastName": "Lockman",
+      "jobTitle": "Future Accounts Liaison",
+      "contactNo": "0493 920 783",
+      "address": "Piper Avenue Port Zara, Victoria",
+      "age": 65,
+      "bio": "Amet temporibus laboriosam totam tempore. Est quos sed voluptas nihil veritatis ullam aut et. Nobis minima ut quia harum ducimus nam voluptas. Consectetur voluptas accusantium vero voluptatem. Temporibus quidem culpa voluptatem ut cum aut id. Repellat omnis ullam voluptatibus quos eum voluptatem distinctio dolorum incidunt.",
+      "dateJoined": "2023-11-01T02:02:45.768Z"
+    },
+    {
+      "id": "6eefda9d-f227-4f87-9cf3-ab62449dad8a",
+      "avatar": "/profile-user.png",
+      "firstName": "Stephanie",
+      "lastName": "Jacobson",
+      "jobTitle": "Forward Configuration Developer",
+      "contactNo": "0462 139 423",
+      "address": "Berge Knoll Aaronbury, Victoria",
+      "age": 40,
+      "bio": "Consequuntur commodi eos aut in earum dicta omnis aperiam dolores. A consequatur ut sequi autem aut quos facilis ratione consequatur. Quisquam distinctio laudantium. Quisquam quod et consequatur.",
+      "dateJoined": "2023-08-14T17:00:29.338Z"
+    },
+    {
+      "id": "b1b038b9-fc74-48e1-baf9-c470ec023194",
+      "avatar": "/profile-user.png",
+      "firstName": "Skye",
+      "lastName": "Quinn",
+      "jobTitle": "Senior Data Coordinator",
+      "contactNo": "0413 975 725",
+      "address": "Ali Station St Jonathanchester, Western Australia",
+      "age": 41,
+      "bio": "Ex et ut reprehenderit quam. Sit suscipit animi voluptas non possimus id temporibus unde. Vel pariatur temporibus corrupti dolorem.",
+      "dateJoined": "2016-04-29T06:26:36.354Z"
+    },
+    {
+      "id": "d1481ef3-b2d2-4065-b690-c8e49014ecc4",
+      "avatar": "/profile-user.png",
+      "firstName": "Addison",
+      "lastName": "O'conner",
+      "jobTitle": "Dynamic Research Orchestrator",
+      "contactNo": "0478 754 504",
+      "address": "Gabriella Mall Port Lucasview, Tasmania",
+      "age": 18,
+      "bio": "Laudantium adipisci ab aut autem ea in. Accusantium unde ipsum hic esse sit eum id. Molestiae cum porro velit.",
+      "dateJoined": "2016-08-30T10:56:42.397Z"
+    }
+  ]
+}
